@@ -1,8 +1,8 @@
 class Subversionutf8 < Formula
   desc "Version control system designed to be a better CVS"
   homepage "https://subversion.apache.org/"
-  url "https://www.apache.org/dyn/closer.cgi?path=subversion/subversion-1.9.4.tar.bz2"
-  mirror "https://archive.apache.org/dist/subversion/subversion-1.9.4.tar.bz2"
+  url "https://www.apache.org/dyn/closer.cgi?path=subversion/subversion-1.8.13.tar.bz2"
+  mirror "https://archive.apache.org/dist/subversion/subversion-1.8.13.tar.bz2"
   sha256 "1099cc68840753b48aedb3a27ebd1e2afbcc84ddb871412e5d500e843d607579"
 
   bottle do
