@@ -76,7 +76,7 @@ class Subversionutf8 < Formula
   # Patch for Subversion handling of OS X UTF-8-MAC filename.
   if build.with? "unicode-path"
     patch :p0 do
-      url "https://raw.githubusercontent.com/TakuyaOkada/homebrew-misc/master/svn_1.8.x_darwin_unicode_precomp.patch"
+      url "https://raw.githubusercontent.com/mmm1111/homebrew-misc/master/svn_1.8.x_darwin_unicode_precomp.patch"
     end
   end
 
